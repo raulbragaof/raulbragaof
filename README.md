@@ -1,19 +1,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  📚Software Engineering Student and Jr Developer
+  Software Engineering Student and Junior Developer, I'm from Campo Grande, Mato Grosso do Sul, Brazil.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong></strong>
+  🦄 Languages: <strong>Currently learning C in college</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong></strong>
+  💼 Ferramentas: <strong>VsCode</strong>
 </p>
 
 <p align="left">
-  📱: ⤵️
+  💌 Contact me from the social networks below: ⤵️
 </p>
 
 <p align="left">
