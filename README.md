@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Languages: <strong>Currently learning C in college</strong>
+  🦄 Languages: <strong>Currently learning Python</strong>
 </p>
 
 <p align="left">
